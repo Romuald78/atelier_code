@@ -1,0 +1,6 @@
+./Launcher.py
+./process.py
+./venv/
+*.pyc
+__pycache__
+
