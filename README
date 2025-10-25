@@ -1,0 +1,20 @@
+[>] From the README folder, run the following command :
+    ./core/install.sh --reinit-code
+
+    It searches the newest version of python and
+    uses it to create a virtual environment in ./venv/,
+    updates pip and setuptools, then downloads
+    dependencies (such as arcade ...)
+
+    With the --reinit-code, the main and user files are (re)created.
+
+[>] Launch PyCharm or any other python environment.
+    Configure the ./Launcher.py file as the main script 
+
+    Students have to modify the ./process.py
+    file (only) to create their games.
+
+[>] the install script may use the --force option
+    to remove the virtual environment and recreate
+    it completely if needed.
+
