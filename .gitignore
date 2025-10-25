@@ -1,6 +1,7 @@
-./Launcher.py
-./process.py
-./venv/
+Launcher.py
+process.py
+venv/
 *.pyc
 __pycache__
+.idea/
 
